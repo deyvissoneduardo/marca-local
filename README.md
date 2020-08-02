@@ -1,6 +1,6 @@
 # marca_location
 
-A new Flutter application.
+app que adicinar marcadores no mapa, utilizando plugins do google maps e geolocator
 
 ## Getting Started
 
